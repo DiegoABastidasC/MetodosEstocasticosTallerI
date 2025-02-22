@@ -1,0 +1,1 @@
+documento para taller 1 de metodos estocasticos
